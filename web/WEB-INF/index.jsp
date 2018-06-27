@@ -16,7 +16,7 @@
   </head>
   <body>
     <script type="text/javascript">
-      alert("Вывод функции из mycode.js - " + f(5));
+      alert("Вывод функции из mycode.js - " + my_function(7));
     </script>
   </body>
 </html>
